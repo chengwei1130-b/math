@@ -2,11 +2,11 @@ Mind map v1:
 index.html
 script.js
 
-Mind map v1:
+Mind map v2:
 index2.html
 script2.js
 
-Mind map v1:
+Mind map v3:
 index2.html
 script2.js
 
