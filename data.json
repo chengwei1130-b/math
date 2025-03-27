@@ -2086,645 +2086,646 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Applied Mathematics",
+                "children": [
+                    {
+                        "name": "Mathematics in Natural Sciences",
+                        "children": [
+                            {
+                                "name": "Physics",
+                                "children": [
+                                    {
+                                        "name": "Mathematics is the language of physics describing natural laws in precise terms"
+                                    },
+                                    {
+                                        "name": "Newtonian mechanics relies on differential equations to describe motion"
+                                    },
+                                    {
+                                        "name": "Vector calculus is essential in electromagnetism and fluid dynamics"
+                                    },
+                                    {
+                                        "name": "Differential equations model waves oscillations and quantum behavior"
+                                    },
+                                    {
+                                        "name": "Fourier analysis decomposes physical phenomena into frequency components"
+                                    },
+                                    {
+                                        "name": "Matrix mechanics provides an alternative formulation of quantum mechanics"
+                                    },
+                                    {
+                                        "name": "Statistical mechanics uses probability theory to study large systems"
+                                    },
+                                    {
+                                        "name": "Tensors are used in general relativity to describe spacetime curvature"
+                                    },
+                                    {
+                                        "name": "The Schr\u00f6dinger equation models quantum particles using wavefunctions"
+                                    },
+                                    {
+                                        "name": "Mathematical models predict planetary motion using Kepler\u2019s laws"
+                                    },
+                                    {
+                                        "name": "Chaos theory explains complex behaviors in nonlinear physical systems"
+                                    },
+                                    {
+                                        "name": "Lie algebras describe symmetries in quantum and classical mechanics"
+                                    },
+                                    {
+                                        "name": "Calculus of variations helps optimize physical action principles"
+                                    },
+                                    {
+                                        "name": "The Navier-Stokes equations describe fluid dynamics and turbulence"
+                                    },
+                                    {
+                                        "name": "Complex analysis is used in electromagnetic wave propagation"
+                                    },
+                                    {
+                                        "name": "The Boltzmann equation models gas dynamics in statistical physics"
+                                    },
+                                    {
+                                        "name": "Graph theory is used in network analysis of electrical circuits"
+                                    },
+                                    {
+                                        "name": "Group theory explains fundamental symmetries in particle physics"
+                                    },
+                                    {
+                                        "name": "Differential geometry is used in studying black holes and cosmology"
+                                    },
+                                    {
+                                        "name": "Mathematical methods help optimize energy transfer in physics applications"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Chemistry",
+                                "children": [
+                                    {
+                                        "name": "Mathematics helps model atomic structure and chemical reactions"
+                                    },
+                                    {
+                                        "name": "Differential equations describe reaction kinetics and rate laws"
+                                    },
+                                    {
+                                        "name": "Statistical mechanics predicts molecular behavior and phase transitions"
+                                    },
+                                    {
+                                        "name": "Graph theory is applied in studying molecular structures"
+                                    },
+                                    {
+                                        "name": "Quantum chemistry relies on linear algebra and matrix mechanics"
+                                    },
+                                    {
+                                        "name": "The Schr\u00f6dinger equation models electronic structures of atoms"
+                                    },
+                                    {
+                                        "name": "Mathematical modeling optimizes reaction engineering in industry"
+                                    },
+                                    {
+                                        "name": "Fourier transform is used in spectroscopy for molecular analysis"
+                                    },
+                                    {
+                                        "name": "Probability theory helps model molecular interactions in thermodynamics"
+                                    },
+                                    {
+                                        "name": "Computational chemistry uses numerical methods to simulate reactions"
+                                    },
+                                    {
+                                        "name": "Differential geometry is used in studying molecular orbitals"
+                                    },
+                                    {
+                                        "name": "Optimization techniques help design efficient catalysts"
+                                    },
+                                    {
+                                        "name": "Chaos theory explains nonlinear chemical dynamics and oscillations"
+                                    },
+                                    {
+                                        "name": "Linear programming helps optimize chemical manufacturing processes"
+                                    },
+                                    {
+                                        "name": "Stochastic modeling predicts the behavior of complex reactions"
+                                    },
+                                    {
+                                        "name": "Partial differential equations describe diffusion processes"
+                                    },
+                                    {
+                                        "name": "Monte Carlo methods simulate chemical systems at molecular levels"
+                                    },
+                                    {
+                                        "name": "Topology is used in studying the stability of chemical compounds"
+                                    },
+                                    {
+                                        "name": "Markov chains model random molecular transitions in solutions"
+                                    },
+                                    {
+                                        "name": "Computational fluid dynamics is used in chemical reactor simulations"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Biology",
+                                "children": [
+                                    {
+                                        "name": "Mathematics models biological systems from cells to ecosystems"
+                                    },
+                                    {
+                                        "name": "Differential equations model population dynamics and predator-prey systems"
+                                    },
+                                    {
+                                        "name": "Mathematical epidemiology predicts the spread of infectious diseases"
+                                    },
+                                    {
+                                        "name": "Chaos theory describes unpredictable behavior in biological systems"
+                                    },
+                                    {
+                                        "name": "Fractal geometry models complex structures in biological tissues"
+                                    },
+                                    {
+                                        "name": "Graph theory analyzes neural networks and genetic interactions"
+                                    },
+                                    {
+                                        "name": "Machine learning and statistical methods aid genetic sequencing"
+                                    },
+                                    {
+                                        "name": "Dynamical systems describe homeostasis and regulatory mechanisms"
+                                    },
+                                    {
+                                        "name": "Mathematical modeling helps understand enzyme kinetics"
+                                    },
+                                    {
+                                        "name": "Markov models predict protein folding and biological pathways"
+                                    },
+                                    {
+                                        "name": "Diffusion equations model drug distribution in the bloodstream"
+                                    },
+                                    {
+                                        "name": "Optimization techniques are used in ecological resource management"
+                                    },
+                                    {
+                                        "name": "Computational biology analyzes DNA sequences and evolutionary patterns"
+                                    },
+                                    {
+                                        "name": "Neural network models mimic brain activity and learning processes"
+                                    },
+                                    {
+                                        "name": "Mathematical neuroscience studies signal transmission in neurons"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mathematical Chemistry",
+                                "children": [
+                                    {
+                                        "name": "Mathematical chemistry models molecular interactions using equations"
+                                    },
+                                    {
+                                        "name": "Graph theory is used to study chemical bonding and molecular structures"
+                                    },
+                                    {
+                                        "name": "Differential equations describe reaction kinetics and chemical dynamics"
+                                    },
+                                    {
+                                        "name": "Quantum mechanics and linear algebra explain molecular orbitals"
+                                    },
+                                    {
+                                        "name": "Monte Carlo simulations predict molecular behavior in different conditions"
+                                    },
+                                    {
+                                        "name": "Statistical mechanics describes phase transitions in chemical systems"
+                                    },
+                                    {
+                                        "name": "Thermodynamics equations govern chemical equilibrium calculations"
+                                    },
+                                    {
+                                        "name": "Topology helps classify molecular chirality and stereochemistry"
+                                    },
+                                    {
+                                        "name": "Fractal geometry is applied in modeling reaction-diffusion systems"
+                                    },
+                                    {
+                                        "name": "Computational chemistry uses numerical methods to predict reaction outcomes"
+                                    },
+                                    {
+                                        "name": "Machine learning techniques analyze chemical compound properties"
+                                    },
+                                    {
+                                        "name": "Optimization methods help design efficient chemical processes"
+                                    },
+                                    {
+                                        "name": "Linear algebra is used in quantum chemistry to solve wave equations"
+                                    },
+                                    {
+                                        "name": "Chaos theory explains unpredictable behaviors in chemical reactions"
+                                    },
+                                    {
+                                        "name": "Dynamical systems approach is used in biochemical network modeling"
+                                    },
+                                    {
+                                        "name": "Computational fluid dynamics assists in understanding reaction mechanisms"
+                                    },
+                                    {
+                                        "name": "Partial differential equations model chemical transport phenomena"
+                                    },
+                                    {
+                                        "name": "Fourier transform techniques analyze vibrational spectroscopy data"
+                                    },
+                                    {
+                                        "name": "Group theory helps classify symmetry properties of molecules"
+                                    },
+                                    {
+                                        "name": "Stochastic processes model random molecular interactions in solutions"
+                                    },
+                                    {
+                                        "name": "Density functional theory predicts electronic structure of materials"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mathematics in Engineering",
+                        "children": [
+                            {
+                                "name": "Ancient Applications",
+                                "children": [
+                                    {
+                                        "name": "Ancient Egyptians used geometry for pyramid construction"
+                                    },
+                                    {
+                                        "name": "The Babylonians developed early algebraic methods for problem-solving"
+                                    },
+                                    {
+                                        "name": "Greek mathematicians like Euclid formalized geometric principles"
+                                    },
+                                    {
+                                        "name": "Archimedes applied calculus concepts to study areas and volumes"
+                                    },
+                                    {
+                                        "name": "The Chinese used modular arithmetic for calendar calculations"
+                                    },
+                                    {
+                                        "name": "The Romans used mathematical engineering for bridge and aqueduct construction"
+                                    },
+                                    {
+                                        "name": "Indian mathematicians introduced the concept of zero and negative numbers"
+                                    },
+                                    {
+                                        "name": "Islamic scholars preserved and expanded mathematical knowledge in algebra"
+                                    },
+                                    {
+                                        "name": "The Mayans developed a sophisticated base-20 numerical system"
+                                    },
+                                    {
+                                        "name": "Stonehenge construction may have involved astronomical mathematics"
+                                    },
+                                    {
+                                        "name": "The Antikythera mechanism used mathematical models for celestial predictions"
+                                    },
+                                    {
+                                        "name": "Ancient naval navigation relied on trigonometric calculations"
+                                    },
+                                    {
+                                        "name": "The Greeks invented the method of exhaustion. an early form of calculus"
+                                    },
+                                    {
+                                        "name": "The Rhind Mathematical Papyrus documents Egyptian problem-solving techniques"
+                                    },
+                                    {
+                                        "name": "Hindu-Arabic numerals revolutionized mathematical computation"
+                                    },
+                                    {
+                                        "name": "The Pythagorean theorem was used in ancient construction and surveying"
+                                    },
+                                    {
+                                        "name": "The Great Wall of China involved complex engineering and mathematical planning"
+                                    },
+                                    {
+                                        "name": "Babylonian tablets contain early records of quadratic equations"
+                                    },
+                                    {
+                                        "name": "The Golden Ratio was studied by the Greeks for aesthetic architecture"
+                                    },
+                                    {
+                                        "name": "Algebraic methods were used in Islamic architecture and engineering"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Control Theory",
+                                "children": [
+                                    {
+                                        "name": "Control theory studies how to regulate dynamic systems using mathematics"
+                                    },
+                                    {
+                                        "name": "Feedback loops help maintain stability in engineering systems"
+                                    },
+                                    {
+                                        "name": "Linear control theory analyzes systems using linear differential equations"
+                                    },
+                                    {
+                                        "name": "Nonlinear control theory deals with complex. unpredictable systems"
+                                    },
+                                    {
+                                        "name": "PID controllers are widely used in industrial automation"
+                                    },
+                                    {
+                                        "name": "State-space representation models control systems using matrices"
+                                    },
+                                    {
+                                        "name": "Optimal control theory seeks to minimize costs in system performance"
+                                    },
+                                    {
+                                        "name": "Stability analysis ensures systems do not behave unpredictably"
+                                    },
+                                    {
+                                        "name": "Kalman filters are used for real-time data estimation in dynamic systems"
+                                    },
+                                    {
+                                        "name": "Lyapunov functions help determine the stability of control systems"
+                                    },
+                                    {
+                                        "name": "Adaptive control modifies system parameters to handle changing conditions"
+                                    },
+                                    {
+                                        "name": "Model predictive control optimizes future system performance"
+                                    },
+                                    {
+                                        "name": "Transfer functions describe input-output relationships in systems"
+                                    },
+                                    {
+                                        "name": "Bode plots visualize system frequency response in control design"
+                                    },
+                                    {
+                                        "name": "Robust control methods ensure performance despite uncertainties"
+                                    },
+                                    {
+                                        "name": "Controllability and observability determine system regulation feasibility"
+                                    },
+                                    {
+                                        "name": "Fuzzy control systems use logic-based decision-making for uncertain data"
+                                    },
+                                    {
+                                        "name": "Control theory is critical in robotics and automation and aerospace engineering"
+                                    },
+                                    {
+                                        "name": "Networked control systems manage communication constraints in large networks"
+                                    },
+                                    {
+                                        "name": "Digital control theory applies discrete mathematics for system regulation"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Numerical Analysis",
+                                "children": [
+                                    {
+                                        "name": "Numerical analysis approximates solutions to complex mathematical problems"
+                                    },
+                                    {
+                                        "name": "Finite difference methods solve differential equations numerically"
+                                    },
+                                    {
+                                        "name": "Interpolation techniques estimate unknown values from known data points"
+                                    },
+                                    {
+                                        "name": "Iterative methods solve large linear and nonlinear equations"
+                                    },
+                                    {
+                                        "name": "Monte Carlo methods use random sampling for problem-solving"
+                                    },
+                                    {
+                                        "name": "Root-finding algorithms help solve polynomial and transcendental equations"
+                                    },
+                                    {
+                                        "name": "Finite element methods simulate structural and fluid dynamics"
+                                    },
+                                    {
+                                        "name": "Gaussian elimination efficiently solves linear systems"
+                                    },
+                                    {
+                                        "name": "Fast Fourier Transform (FFT) speeds up signal processing calculations"
+                                    },
+                                    {
+                                        "name": "Adaptive numerical methods adjust step size for better accuracy"
+                                    },
+                                    {
+                                        "name": "Multigrid methods accelerate the solution of large-scale numerical problems"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mathematics in Decision-Making",
+                        "children": [
+                            {
+                                "name": "Game Theory",
+                                "children": [
+                                    {
+                                        "name": "Game theory models strategic interactions among rational decision-makers"
+                                    },
+                                    {
+                                        "name": "Nash equilibrium describes a stable strategy where no player benefits from deviation"
+                                    },
+                                    {
+                                        "name": "Zero-sum games involve one player's gain being another's loss"
+                                    },
+                                    {
+                                        "name": "Non-zero-sum games allow cooperative or competitive strategies with shared benefits"
+                                    },
+                                    {
+                                        "name": "Prisoner\u2019s dilemma demonstrates how rational choices can lead to suboptimal outcomes"
+                                    },
+                                    {
+                                        "name": "Evolutionary game theory studies strategy adaptation in populations"
+                                    },
+                                    {
+                                        "name": "Cooperative game theory examines how groups can form coalitions for mutual benefit"
+                                    },
+                                    {
+                                        "name": "Repeated games model long-term strategic interactions and trust-building"
+                                    },
+                                    {
+                                        "name": "Stochastic games introduce probabilistic elements in decision-making scenarios"
+                                    },
+                                    {
+                                        "name": "Minimax strategy ensures optimal outcomes in adversarial situations"
+                                    },
+                                    {
+                                        "name": "Bargaining theory analyzes how players negotiate and share resources"
+                                    },
+                                    {
+                                        "name": "Mechanism design studies incentive structures for optimal outcomes"
+                                    },
+                                    {
+                                        "name": "Auction theory applies game theory to bidding and pricing strategies"
+                                    },
+                                    {
+                                        "name": "Social choice theory evaluates voting systems using mathematical methods"
+                                    },
+                                    {
+                                        "name": "Markov games incorporate randomness and state transitions in decisions"
+                                    },
+                                    {
+                                        "name": "Stackelberg competition models leader-follower interactions in markets"
+                                    },
+                                    {
+                                        "name": "Matching theory applies to market design such as job assignments"
+                                    },
+                                    {
+                                        "name": "Graph theory and networks analyze strategic interactions in complex systems"
+                                    },
+                                    {
+                                        "name": "Information asymmetry influences decision-making in competitive settings"
+                                    },
+                                    {
+                                        "name": "Differential game theory studies dynamic interactions over time"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Mathematical Finance",
+                                "children": [
+                                    {
+                                        "name": "Mathematical finance uses quantitative models to analyze financial markets"
+                                    },
+                                    {
+                                        "name": "The Black-Scholes model prices options using stochastic calculus"
+                                    },
+                                    {
+                                        "name": "Portfolio optimization balances risk and return for investment strategies"
+                                    },
+                                    {
+                                        "name": "Risk management models assess financial uncertainties and market fluctuations"
+                                    },
+                                    {
+                                        "name": "Monte Carlo simulations predict future financial scenarios"
+                                    },
+                                    {
+                                        "name": "Interest rate models forecast changes in bond pricing and lending rates"
+                                    },
+                                    {
+                                        "name": "Arbitrage pricing theory ensures no risk-free profits exist in markets"
+                                    },
+                                    {
+                                        "name": "Time series analysis examines trends and patterns in stock prices"
+                                    },
+                                    {
+                                        "name": "Stochastic processes describe random movements in financial markets"
+                                    },
+                                    {
+                                        "name": "Martingale theory is applied to model fair gambling and investments"
+                                    },
+                                    {
+                                        "name": "Game theory helps analyze competitive financial strategies"
+                                    },
+                                    {
+                                        "name": "Actuarial mathematics assesses risk in insurance and pension systems"
+                                    },
+                                    {
+                                        "name": "Derivatives pricing involves solving partial differential equations"
+                                    },
+                                    {
+                                        "name": "Credit risk modeling predicts the likelihood of loan defaults"
+                                    },
+                                    {
+                                        "name": "High-frequency trading algorithms optimize rapid market transactions"
+                                    },
+                                    {
+                                        "name": "Volatility modeling measures market uncertainty using GARCH models"
+                                    },
+                                    {
+                                        "name": "Value-at-Risk (VaR) estimates potential financial losses"
+                                    },
+                                    {
+                                        "name": "Markov decision processes optimize financial decision-making strategies"
+                                    },
+                                    {
+                                        "name": "Fixed-income mathematics evaluates bond yields and interest rate structures"
+                                    },
+                                    {
+                                        "name": "Algorithmic trading applies machine learning to automate investment strategies"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mathematics in Computer Science",
+                        "children": [
+                            {
+                                "name": "Machine Learning",
+                                "children": [
+                                    {
+                                        "name": "Machine learning models recognize patterns from data for predictions"
+                                    },
+                                    {
+                                        "name": "Linear regression predicts numerical outcomes based on input variables"
+                                    },
+                                    {
+                                        "name": "Logistic regression classifies data into binary categories"
+                                    },
+                                    {
+                                        "name": "Decision trees make hierarchical classifications for predictive modeling"
+                                    },
+                                    {
+                                        "name": "Neural networks simulate brain-like computations for complex problems"
+                                    },
+                                    {
+                                        "name": "Support vector machines classify data by finding optimal decision boundaries"
+                                    },
+                                    {
+                                        "name": "K-means clustering groups data based on similarity measures"
+                                    },
+                                    {
+                                        "name": "Principal component analysis reduces data dimensionality for analysis"
+                                    },
+                                    {
+                                        "name": "Gradient descent optimizes machine learning models by minimizing errors"
+                                    },
+                                    {
+                                        "name": "Markov models predict sequences of events in natural language processing"
+                                    },
+                                    {
+                                        "name": "Reinforcement learning optimizes decision-making through trial and error"
+                                    },
+                                    {
+                                        "name": "Deep learning enhances feature extraction using multi-layer neural networks"
+                                    },
+                                    {
+                                        "name": "Natural language processing enables computers to understand human text"
+                                    },
+                                    {
+                                        "name": "Computer vision applies ML techniques to interpret images and videos"
+                                    },
+                                    {
+                                        "name": "Bayesian networks model probabilistic relationships in data"
+                                    },
+                                    {
+                                        "name": "Autoencoders reduce noise and enhance data representation in ML"
+                                    },
+                                    {
+                                        "name": "Hyperparameter tuning optimizes machine learning model performance"
+                                    },
+                                    {
+                                        "name": "Generative adversarial networks (GANs) create realistic synthetic data"
+                                    },
+                                    {
+                                        "name": "Transfer learning applies pre-trained models to new tasks"
+                                    },
+                                    {
+                                        "name": "Ethical AI explores fairness and bias and transparency in ML applications"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
-    {
-        "name": "Applied Mathematics",
-        "children": [
-            {
-                "name": "Mathematics in Natural Sciences",
-                "children": [
-                    {
-                        "name": "Physics",
-                        "children": [
-                            {
-                                "name": "Mathematics is the language of physics describing natural laws in precise terms"
-                            },
-                            {
-                                "name": "Newtonian mechanics relies on differential equations to describe motion"
-                            },
-                            {
-                                "name": "Vector calculus is essential in electromagnetism and fluid dynamics"
-                            },
-                            {
-                                "name": "Differential equations model waves oscillations and quantum behavior"
-                            },
-                            {
-                                "name": "Fourier analysis decomposes physical phenomena into frequency components"
-                            },
-                            {
-                                "name": "Matrix mechanics provides an alternative formulation of quantum mechanics"
-                            },
-                            {
-                                "name": "Statistical mechanics uses probability theory to study large systems"
-                            },
-                            {
-                                "name": "Tensors are used in general relativity to describe spacetime curvature"
-                            },
-                            {
-                                "name": "The Schr\u00f6dinger equation models quantum particles using wavefunctions"
-                            },
-                            {
-                                "name": "Mathematical models predict planetary motion using Kepler\u2019s laws"
-                            },
-                            {
-                                "name": "Chaos theory explains complex behaviors in nonlinear physical systems"
-                            },
-                            {
-                                "name": "Lie algebras describe symmetries in quantum and classical mechanics"
-                            },
-                            {
-                                "name": "Calculus of variations helps optimize physical action principles"
-                            },
-                            {
-                                "name": "The Navier-Stokes equations describe fluid dynamics and turbulence"
-                            },
-                            {
-                                "name": "Complex analysis is used in electromagnetic wave propagation"
-                            },
-                            {
-                                "name": "The Boltzmann equation models gas dynamics in statistical physics"
-                            },
-                            {
-                                "name": "Graph theory is used in network analysis of electrical circuits"
-                            },
-                            {
-                                "name": "Group theory explains fundamental symmetries in particle physics"
-                            },
-                            {
-                                "name": "Differential geometry is used in studying black holes and cosmology"
-                            },
-                            {
-                                "name": "Mathematical methods help optimize energy transfer in physics applications"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Chemistry",
-                        "children": [
-                            {
-                                "name": "Mathematics helps model atomic structure and chemical reactions"
-                            },
-                            {
-                                "name": "Differential equations describe reaction kinetics and rate laws"
-                            },
-                            {
-                                "name": "Statistical mechanics predicts molecular behavior and phase transitions"
-                            },
-                            {
-                                "name": "Graph theory is applied in studying molecular structures"
-                            },
-                            {
-                                "name": "Quantum chemistry relies on linear algebra and matrix mechanics"
-                            },
-                            {
-                                "name": "The Schr\u00f6dinger equation models electronic structures of atoms"
-                            },
-                            {
-                                "name": "Mathematical modeling optimizes reaction engineering in industry"
-                            },
-                            {
-                                "name": "Fourier transform is used in spectroscopy for molecular analysis"
-                            },
-                            {
-                                "name": "Probability theory helps model molecular interactions in thermodynamics"
-                            },
-                            {
-                                "name": "Computational chemistry uses numerical methods to simulate reactions"
-                            },
-                            {
-                                "name": "Differential geometry is used in studying molecular orbitals"
-                            },
-                            {
-                                "name": "Optimization techniques help design efficient catalysts"
-                            },
-                            {
-                                "name": "Chaos theory explains nonlinear chemical dynamics and oscillations"
-                            },
-                            {
-                                "name": "Linear programming helps optimize chemical manufacturing processes"
-                            },
-                            {
-                                "name": "Stochastic modeling predicts the behavior of complex reactions"
-                            },
-                            {
-                                "name": "Partial differential equations describe diffusion processes"
-                            },
-                            {
-                                "name": "Monte Carlo methods simulate chemical systems at molecular levels"
-                            },
-                            {
-                                "name": "Topology is used in studying the stability of chemical compounds"
-                            },
-                            {
-                                "name": "Markov chains model random molecular transitions in solutions"
-                            },
-                            {
-                                "name": "Computational fluid dynamics is used in chemical reactor simulations"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Biology",
-                        "children": [
-                            {
-                                "name": "Mathematics models biological systems from cells to ecosystems"
-                            },
-                            {
-                                "name": "Differential equations model population dynamics and predator-prey systems"
-                            },
-                            {
-                                "name": "Mathematical epidemiology predicts the spread of infectious diseases"
-                            },
-                            {
-                                "name": "Chaos theory describes unpredictable behavior in biological systems"
-                            },
-                            {
-                                "name": "Fractal geometry models complex structures in biological tissues"
-                            },
-                            {
-                                "name": "Graph theory analyzes neural networks and genetic interactions"
-                            },
-                            {
-                                "name": "Machine learning and statistical methods aid genetic sequencing"
-                            },
-                            {
-                                "name": "Dynamical systems describe homeostasis and regulatory mechanisms"
-                            },
-                            {
-                                "name": "Mathematical modeling helps understand enzyme kinetics"
-                            },
-                            {
-                                "name": "Markov models predict protein folding and biological pathways"
-                            },
-                            {
-                                "name": "Diffusion equations model drug distribution in the bloodstream"
-                            },
-                            {
-                                "name": "Optimization techniques are used in ecological resource management"
-                            },
-                            {
-                                "name": "Computational biology analyzes DNA sequences and evolutionary patterns"
-                            },
-                            {
-                                "name": "Neural network models mimic brain activity and learning processes"
-                            },
-                            {
-                                "name": "Mathematical neuroscience studies signal transmission in neurons"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Mathematical Chemistry",
-                        "children": [
-                            {
-                                "name": "Mathematical chemistry models molecular interactions using equations"
-                            },
-                            {
-                                "name": "Graph theory is used to study chemical bonding and molecular structures"
-                            },
-                            {
-                                "name": "Differential equations describe reaction kinetics and chemical dynamics"
-                            },
-                            {
-                                "name": "Quantum mechanics and linear algebra explain molecular orbitals"
-                            },
-                            {
-                                "name": "Monte Carlo simulations predict molecular behavior in different conditions"
-                            },
-                            {
-                                "name": "Statistical mechanics describes phase transitions in chemical systems"
-                            },
-                            {
-                                "name": "Thermodynamics equations govern chemical equilibrium calculations"
-                            },
-                            {
-                                "name": "Topology helps classify molecular chirality and stereochemistry"
-                            },
-                            {
-                                "name": "Fractal geometry is applied in modeling reaction-diffusion systems"
-                            },
-                            {
-                                "name": "Computational chemistry uses numerical methods to predict reaction outcomes"
-                            },
-                            {
-                                "name": "Machine learning techniques analyze chemical compound properties"
-                            },
-                            {
-                                "name": "Optimization methods help design efficient chemical processes"
-                            },
-                            {
-                                "name": "Linear algebra is used in quantum chemistry to solve wave equations"
-                            },
-                            {
-                                "name": "Chaos theory explains unpredictable behaviors in chemical reactions"
-                            },
-                            {
-                                "name": "Dynamical systems approach is used in biochemical network modeling"
-                            },
-                            {
-                                "name": "Computational fluid dynamics assists in understanding reaction mechanisms"
-                            },
-                            {
-                                "name": "Partial differential equations model chemical transport phenomena"
-                            },
-                            {
-                                "name": "Fourier transform techniques analyze vibrational spectroscopy data"
-                            },
-                            {
-                                "name": "Group theory helps classify symmetry properties of molecules"
-                            },
-                            {
-                                "name": "Stochastic processes model random molecular interactions in solutions"
-                            },
-                            {
-                                "name": "Density functional theory predicts electronic structure of materials"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Mathematics in Engineering",
-                "children": [
-                    {
-                        "name": "Ancient Applications",
-                        "children": [
-                            {
-                                "name": "Ancient Egyptians used geometry for pyramid construction"
-                            },
-                            {
-                                "name": "The Babylonians developed early algebraic methods for problem-solving"
-                            },
-                            {
-                                "name": "Greek mathematicians like Euclid formalized geometric principles"
-                            },
-                            {
-                                "name": "Archimedes applied calculus concepts to study areas and volumes"
-                            },
-                            {
-                                "name": "The Chinese used modular arithmetic for calendar calculations"
-                            },
-                            {
-                                "name": "The Romans used mathematical engineering for bridge and aqueduct construction"
-                            },
-                            {
-                                "name": "Indian mathematicians introduced the concept of zero and negative numbers"
-                            },
-                            {
-                                "name": "Islamic scholars preserved and expanded mathematical knowledge in algebra"
-                            },
-                            {
-                                "name": "The Mayans developed a sophisticated base-20 numerical system"
-                            },
-                            {
-                                "name": "Stonehenge construction may have involved astronomical mathematics"
-                            },
-                            {
-                                "name": "The Antikythera mechanism used mathematical models for celestial predictions"
-                            },
-                            {
-                                "name": "Ancient naval navigation relied on trigonometric calculations"
-                            },
-                            {
-                                "name": "The Greeks invented the method of exhaustion. an early form of calculus"
-                            },
-                            {
-                                "name": "The Rhind Mathematical Papyrus documents Egyptian problem-solving techniques"
-                            },
-                            {
-                                "name": "Hindu-Arabic numerals revolutionized mathematical computation"
-                            },
-                            {
-                                "name": "The Pythagorean theorem was used in ancient construction and surveying"
-                            },
-                            {
-                                "name": "The Great Wall of China involved complex engineering and mathematical planning"
-                            },
-                            {
-                                "name": "Babylonian tablets contain early records of quadratic equations"
-                            },
-                            {
-                                "name": "The Golden Ratio was studied by the Greeks for aesthetic architecture"
-                            },
-                            {
-                                "name": "Algebraic methods were used in Islamic architecture and engineering"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Control Theory",
-                        "children": [
-                            {
-                                "name": "Control theory studies how to regulate dynamic systems using mathematics"
-                            },
-                            {
-                                "name": "Feedback loops help maintain stability in engineering systems"
-                            },
-                            {
-                                "name": "Linear control theory analyzes systems using linear differential equations"
-                            },
-                            {
-                                "name": "Nonlinear control theory deals with complex. unpredictable systems"
-                            },
-                            {
-                                "name": "PID controllers are widely used in industrial automation"
-                            },
-                            {
-                                "name": "State-space representation models control systems using matrices"
-                            },
-                            {
-                                "name": "Optimal control theory seeks to minimize costs in system performance"
-                            },
-                            {
-                                "name": "Stability analysis ensures systems do not behave unpredictably"
-                            },
-                            {
-                                "name": "Kalman filters are used for real-time data estimation in dynamic systems"
-                            },
-                            {
-                                "name": "Lyapunov functions help determine the stability of control systems"
-                            },
-                            {
-                                "name": "Adaptive control modifies system parameters to handle changing conditions"
-                            },
-                            {
-                                "name": "Model predictive control optimizes future system performance"
-                            },
-                            {
-                                "name": "Transfer functions describe input-output relationships in systems"
-                            },
-                            {
-                                "name": "Bode plots visualize system frequency response in control design"
-                            },
-                            {
-                                "name": "Robust control methods ensure performance despite uncertainties"
-                            },
-                            {
-                                "name": "Controllability and observability determine system regulation feasibility"
-                            },
-                            {
-                                "name": "Fuzzy control systems use logic-based decision-making for uncertain data"
-                            },
-                            {
-                                "name": "Control theory is critical in robotics and automation and aerospace engineering"
-                            },
-                            {
-                                "name": "Networked control systems manage communication constraints in large networks"
-                            },
-                            {
-                                "name": "Digital control theory applies discrete mathematics for system regulation"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Numerical Analysis",
-                        "children": [
-                            {
-                                "name": "Numerical analysis approximates solutions to complex mathematical problems"
-                            },
-                            {
-                                "name": "Finite difference methods solve differential equations numerically"
-                            },
-                            {
-                                "name": "Interpolation techniques estimate unknown values from known data points"
-                            },
-                            {
-                                "name": "Iterative methods solve large linear and nonlinear equations"
-                            },
-                            {
-                                "name": "Monte Carlo methods use random sampling for problem-solving"
-                            },
-                            {
-                                "name": "Root-finding algorithms help solve polynomial and transcendental equations"
-                            },
-                            {
-                                "name": "Finite element methods simulate structural and fluid dynamics"
-                            },
-                            {
-                                "name": "Gaussian elimination efficiently solves linear systems"
-                            },
-                            {
-                                "name": "Fast Fourier Transform (FFT) speeds up signal processing calculations"
-                            },
-                            {
-                                "name": "Adaptive numerical methods adjust step size for better accuracy"
-                            },
-                            {
-                                "name": "Multigrid methods accelerate the solution of large-scale numerical problems"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Mathematics in Decision-Making",
-                "children": [
-                    {
-                        "name": "Game Theory",
-                        "children": [
-                            {
-                                "name": "Game theory models strategic interactions among rational decision-makers"
-                            },
-                            {
-                                "name": "Nash equilibrium describes a stable strategy where no player benefits from deviation"
-                            },
-                            {
-                                "name": "Zero-sum games involve one player's gain being another's loss"
-                            },
-                            {
-                                "name": "Non-zero-sum games allow cooperative or competitive strategies with shared benefits"
-                            },
-                            {
-                                "name": "Prisoner\u2019s dilemma demonstrates how rational choices can lead to suboptimal outcomes"
-                            },
-                            {
-                                "name": "Evolutionary game theory studies strategy adaptation in populations"
-                            },
-                            {
-                                "name": "Cooperative game theory examines how groups can form coalitions for mutual benefit"
-                            },
-                            {
-                                "name": "Repeated games model long-term strategic interactions and trust-building"
-                            },
-                            {
-                                "name": "Stochastic games introduce probabilistic elements in decision-making scenarios"
-                            },
-                            {
-                                "name": "Minimax strategy ensures optimal outcomes in adversarial situations"
-                            },
-                            {
-                                "name": "Bargaining theory analyzes how players negotiate and share resources"
-                            },
-                            {
-                                "name": "Mechanism design studies incentive structures for optimal outcomes"
-                            },
-                            {
-                                "name": "Auction theory applies game theory to bidding and pricing strategies"
-                            },
-                            {
-                                "name": "Social choice theory evaluates voting systems using mathematical methods"
-                            },
-                            {
-                                "name": "Markov games incorporate randomness and state transitions in decisions"
-                            },
-                            {
-                                "name": "Stackelberg competition models leader-follower interactions in markets"
-                            },
-                            {
-                                "name": "Matching theory applies to market design such as job assignments"
-                            },
-                            {
-                                "name": "Graph theory and networks analyze strategic interactions in complex systems"
-                            },
-                            {
-                                "name": "Information asymmetry influences decision-making in competitive settings"
-                            },
-                            {
-                                "name": "Differential game theory studies dynamic interactions over time"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Mathematical Finance",
-                        "children": [
-                            {
-                                "name": "Mathematical finance uses quantitative models to analyze financial markets"
-                            },
-                            {
-                                "name": "The Black-Scholes model prices options using stochastic calculus"
-                            },
-                            {
-                                "name": "Portfolio optimization balances risk and return for investment strategies"
-                            },
-                            {
-                                "name": "Risk management models assess financial uncertainties and market fluctuations"
-                            },
-                            {
-                                "name": "Monte Carlo simulations predict future financial scenarios"
-                            },
-                            {
-                                "name": "Interest rate models forecast changes in bond pricing and lending rates"
-                            },
-                            {
-                                "name": "Arbitrage pricing theory ensures no risk-free profits exist in markets"
-                            },
-                            {
-                                "name": "Time series analysis examines trends and patterns in stock prices"
-                            },
-                            {
-                                "name": "Stochastic processes describe random movements in financial markets"
-                            },
-                            {
-                                "name": "Martingale theory is applied to model fair gambling and investments"
-                            },
-                            {
-                                "name": "Game theory helps analyze competitive financial strategies"
-                            },
-                            {
-                                "name": "Actuarial mathematics assesses risk in insurance and pension systems"
-                            },
-                            {
-                                "name": "Derivatives pricing involves solving partial differential equations"
-                            },
-                            {
-                                "name": "Credit risk modeling predicts the likelihood of loan defaults"
-                            },
-                            {
-                                "name": "High-frequency trading algorithms optimize rapid market transactions"
-                            },
-                            {
-                                "name": "Volatility modeling measures market uncertainty using GARCH models"
-                            },
-                            {
-                                "name": "Value-at-Risk (VaR) estimates potential financial losses"
-                            },
-                            {
-                                "name": "Markov decision processes optimize financial decision-making strategies"
-                            },
-                            {
-                                "name": "Fixed-income mathematics evaluates bond yields and interest rate structures"
-                            },
-                            {
-                                "name": "Algorithmic trading applies machine learning to automate investment strategies"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Mathematics in Computer Science",
-                "children": [
-                    {
-                        "name": "Machine Learning",
-                        "children": [
-                            {
-                                "name": "Machine learning models recognize patterns from data for predictions"
-                            },
-                            {
-                                "name": "Linear regression predicts numerical outcomes based on input variables"
-                            },
-                            {
-                                "name": "Logistic regression classifies data into binary categories"
-                            },
-                            {
-                                "name": "Decision trees make hierarchical classifications for predictive modeling"
-                            },
-                            {
-                                "name": "Neural networks simulate brain-like computations for complex problems"
-                            },
-                            {
-                                "name": "Support vector machines classify data by finding optimal decision boundaries"
-                            },
-                            {
-                                "name": "K-means clustering groups data based on similarity measures"
-                            },
-                            {
-                                "name": "Principal component analysis reduces data dimensionality for analysis"
-                            },
-                            {
-                                "name": "Gradient descent optimizes machine learning models by minimizing errors"
-                            },
-                            {
-                                "name": "Markov models predict sequences of events in natural language processing"
-                            },
-                            {
-                                "name": "Reinforcement learning optimizes decision-making through trial and error"
-                            },
-                            {
-                                "name": "Deep learning enhances feature extraction using multi-layer neural networks"
-                            },
-                            {
-                                "name": "Natural language processing enables computers to understand human text"
-                            },
-                            {
-                                "name": "Computer vision applies ML techniques to interpret images and videos"
-                            },
-                            {
-                                "name": "Bayesian networks model probabilistic relationships in data"
-                            },
-                            {
-                                "name": "Autoencoders reduce noise and enhance data representation in ML"
-                            },
-                            {
-                                "name": "Hyperparameter tuning optimizes machine learning model performance"
-                            },
-                            {
-                                "name": "Generative adversarial networks (GANs) create realistic synthetic data"
-                            },
-                            {
-                                "name": "Transfer learning applies pre-trained models to new tasks"
-                            },
-                            {
-                                "name": "Ethical AI explores fairness and bias and transparency in ML applications"
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
+    
     {
         "name": "Conclusion",
         "children": [
